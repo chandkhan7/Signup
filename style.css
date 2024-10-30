@@ -8,7 +8,8 @@
 #mark {
   background-color: #121013; /* Dark background */
   font-family: Arial, sans-serif;
-  margin: 220px; /* Remove default margin */
+  margin: 370px ; /* Remove default margin */
+  margin-left: 270px;
   padding: 0; /* Remove default padding */
 }
 
@@ -52,7 +53,7 @@ label {
 }
 
 input[type="text"], input[type="email"], input[type="password"] {
-  width: 100%;
+  width: 95%;
   height: 40px;
   margin-bottom: 15px;
   padding: 10px;
@@ -84,7 +85,7 @@ button[type="submit"]:hover {
 }
 
 .login-btn {
-  background-color: #ffbb00;
+  background-color: #00bbff;
   color: #000000;
   padding: 10px 35px;
   border: none;
@@ -102,7 +103,7 @@ button[type="submit"]:hover {
 }
 
 .login-btn:hover {
-  background-color: #ffbb00da;
+  background-color: #00bbffc2;
 }
 .instagram-logo {
   text-align: center;
